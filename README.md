@@ -7,14 +7,6 @@
 <h1 data-importer="text" align="center">Olá, eu sou o João Fellipe! 👋</h1>
 
 ###
-
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/joão-fellipe-de-souza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-  </a>
-  <a href="joaofellipesouza90@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
